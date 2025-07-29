@@ -26,9 +26,9 @@ I focus on solving real-world problems using advanced ML techniques, building in
 
 | Area                  | Tools / Technologies |
 |-----------------------|----------------------|
-| **Languages**         | Python, Rust, JavaScript |
+| **Languages**         | Python, c++, Java, JavaScript |
 | **Frameworks/Libraries** | PyTorch, TensorFlow, Hugging Face Transformers |
-| **Tools & Platforms** | Git, Docker, GitHub Actions |
+| **Tools & Platforms** | Git, Jupyter, GitHub Actions |
 | **Core Concepts**     | Secure MPC, Transformer Architectures, NLP Pipelines, Computer Vision, Model Evaluation |
 
 ---
