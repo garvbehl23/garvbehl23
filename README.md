@@ -13,17 +13,17 @@
 
 I’m a machine learning engineer and researcher focused on:
 
--  NLP, LLM customization & deployment  
--  Secure multiparty computation & privacy-preserving ML  
--  Systems-level AI with Rust  
--  Deep learning on grayscale/low-dim image data  
--  Research-based fine-tuning, alignment, and eval
+- NLP, LLM customization & deployment  
+- Secure multiparty computation & privacy-preserving ML  
+- Systems-level AI with Rust  
+- Deep learning on grayscale/low-dim image data  
+- Research-based fine-tuning, alignment, and eval
 
 I bridge theory and production, building **reliable**, **scalable**, and **secure** ML systems with practical impact.
 
 ---
 
-###  Current Focus Areas
+### Current Focus Areas
 
 - Transformers and Instruction-tuned LLMs  
 - Secure MPC for data privacy  
@@ -44,21 +44,25 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 
 ---
 
-###  GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=garvbehl23&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=garvbehl23&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" width="48%" />
+  <strong>🔥 GitHub Streak (Current, Longest, and Total)</strong><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=garvbehl23&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=garvbehl23&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbehl23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garvbehl23&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garvbehl23&theme=tokyonight" width="96%" />
 </p>
 
 ---
 
-###  Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=garvbehl23&theme=react-dark&hide_border=true&area=true" />
@@ -66,7 +70,7 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 
 ---
 
-###  Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/garv-behl-2b644a239/" target="_blank">
