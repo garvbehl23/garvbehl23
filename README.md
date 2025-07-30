@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+I'm+Garv+Behl;ML+Engineer+%7C+LLM+Researcher+%7C+Systems+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+I'm+Garv+Behl;ML+Engineer+%7C+LLM+Researcher" alt="Typing SVG" />
 </h1>
 
 <p align="center">
