@@ -48,8 +48,9 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 
 <p align="center">
   <strong>🔥 GitHub Streak (Current, Longest, and Total)</strong><br><br>
-  <img src="https://streak-stats.demolab.com?user=garvbehl23&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=garvbehl23&theme=tokyonight&hide_border=true" width="95%" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=garvbehl23&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10" width="48%" />
