@@ -48,7 +48,7 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 
 <p align="center">
   <strong>🔥 GitHub Streak (Current, Longest, and Total)</strong><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=garvbehl23&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=garvbehl23&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=garvbehl23&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbehl23&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
