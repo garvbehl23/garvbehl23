@@ -47,9 +47,9 @@ I bridge theory and production, building **reliable**, **scalable**, and **secur
 ### GitHub Activity & Stats
 
 <p align="center">
-  <strong>🔥 GitHub Streak (Current, Longest, and Total)</strong><br><br>
-  <img src="https://github-readme-streak-stats.vercel.app?user=garvbehl23&theme=tokyonight&hide_border=true" width="95%" />
+  <img src="https://img.shields.io/badge/GitHub_Streak-Loading...-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 
 <p align="center">
